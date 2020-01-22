@@ -23,13 +23,13 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
+## GIF Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a GIF of implemented user stories:
 
 <img src="http://g.recordit.co/p06CBmBRhl.gif" width=250 ><br>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
